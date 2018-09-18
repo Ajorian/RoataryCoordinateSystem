@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/RotaryCoordinate">
+        <file>next.png</file>
+        <file>pervious.png</file>
+    </qresource>
+</RCC>
